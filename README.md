@@ -14,3 +14,5 @@ Installation and Usage
     The file_hider.vbs script will hide the files listed in the filesToHide array.
 
 Warning: These scripts are for educational and ethical purposes only. Use them responsibly and always comply with applicable laws and regulations. Stay stealthy, my friend!
+
+NOTE: Most of the coding in these projects was done by an AI, Secondly I suggest that you DO NOT CHANGE THE NAME OF FILES unless you know what you are doing and you are going to change the name of those files from the code of other files as well. (Sorry im a newbie & i couldnt find a solution to this problem)
