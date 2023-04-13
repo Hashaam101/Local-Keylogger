@@ -16,7 +16,10 @@ This repository contains files for a keylogger and file hider script in Windows.
 3. Key events will be logged to logs.txt in the same directory.
 4. The file_hider.vbs script will hide the files listed in the filesToHide array.
 
-**Developer Note:**
+**NOTE:**
+ ***Some parts of these Programs are made by an AI. Secondly, I suggest that you DO NOT RENAME THE FILES unless you know what you are doing and you are going to rename the files inside the code of other files too.*** *(Sorry, I'm a newbie, I couldn't find a solution to this problem. Let me know if you know any)*
+
+**About the Code:**
 
 Welcome to the Keylogger and File Hider repository! This collection of scripts allows you to log key events and hide files. The keylogger is powered by the keyboard library in Python, and the logs are saved to logs.txt. The file hider script is written in VBScript and can hide files like a pro.
 
